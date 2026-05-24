@@ -13,7 +13,7 @@
 
 The **Global Population Pressure Index Dashboard** provides a comprehensive, multi-page view of how population growth interacts with resources, economy, water access, food security, and environmental sustainability across countries and regions.
 
-The dashboard combines **11 cleaned datasets** to visualize population stress indicators and enable cross-country and cross-regional comparison over time (2000–2024).
+The dashboard combines **11 cleaned datasets** to visualize population stress indicators and enable cross-country and cross-regional comparison over time(2000–2024).
 
 ---
 

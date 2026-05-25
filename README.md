@@ -55,7 +55,7 @@ Global_Population_Pressure_Index-Dashboard/
 │   ├── fact_food_security.csv
 │   └── fact_hunger_index.csv
 │
-├── dashboard/                      # Power BI.pbix file
+├── dashboard/                      # Power BI .pbix file
 ├── notebooks/                      # Data cleaning & preprocessing scripts
 ├── screenshots/                    # Dashboard screenshots
 ├── docs/                           # Documentation

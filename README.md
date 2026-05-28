@@ -96,9 +96,9 @@ The data model follows a **star schema** design:
 
 ```
 dim_country_region  <----------------------------------------------+
-       |                                                            |
+       |                                                           |
        | (iso3 / country)                                          |
-       v                                                            |
+       v                                                           |
 fact_population_un          fact_hdi                               |
 fact_population_density     fact_co2_owid                          |
 fact_land_area              fact_co2_wb     -----------------------+
